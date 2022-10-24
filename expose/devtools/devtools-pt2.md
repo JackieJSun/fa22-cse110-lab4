@@ -1,0 +1,2 @@
+1. The bug is that when adding the two numbers together, the program treats both values as strings rather than numeric values. As a result, the sum that is outputted is the two numbers concatenated together. 
+2. I would use the parseInt() function on the arguments 'num1' and 'num2' that are passed into calculateSum before I calculate 'result'. 
